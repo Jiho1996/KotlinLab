@@ -8,7 +8,7 @@ class companion_class_lab : AppCompatActivity() {
 
     class companion_class {
 
-        companion object {
+        companion object home{
 
             val test1 : Int = 0
             val  test2 : Int = 1
